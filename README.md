@@ -1,0 +1,1 @@
+//this is a normal html5 and css responsive website project
